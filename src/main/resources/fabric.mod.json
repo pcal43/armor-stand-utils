@@ -2,7 +2,7 @@
 {
   "schemaVersion": 1,
   "id": "armorstandutils",
-  "version": "1.0.1",
+  "version": "1.0.1-nohands",
 
   "name": "Armor Stand Utils",
   "description": "Tweaks armor stands to make them a bit more usable.",

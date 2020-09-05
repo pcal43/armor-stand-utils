@@ -77,7 +77,7 @@ public abstract class ArmorStandInteractionMixin {
         entity.equipStack(EquipmentSlot.CHEST, set.getChestplate());
         entity.equipStack(EquipmentSlot.LEGS, set.getLeggings());
         entity.equipStack(EquipmentSlot.FEET, set.getBoots());
-        entity.equipStack(EquipmentSlot.MAINHAND, set.getMainHand());
-        entity.equipStack(EquipmentSlot.OFFHAND, set.getOffHand());
+//        entity.equipStack(EquipmentSlot.MAINHAND, set.getMainHand());
+//        entity.equipStack(EquipmentSlot.OFFHAND, set.getOffHand());
     }
 }
